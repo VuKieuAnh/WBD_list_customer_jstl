@@ -11,7 +11,6 @@ import java.util.List;
 @WebServlet(name = "Customer1Servlet", urlPatterns = "/listcustomer")
 public class CustomerServlet extends javax.servlet.http.HttpServlet {
 
-//    private static final long serialVersionUID = 1L;
 
     public CustomerServlet() {
         super();
